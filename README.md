@@ -15,7 +15,7 @@
 |Pink|||
 |Purple|||
 |Red|#D16666|![Colored box][fuzzywuzzy]|
-|Yellow|#D4C685|![Colored box][mistymoss]|
+|Yellow|#F4D58D|![Colored box][mistymoss]|
 
 [wallpaper]:img/wallpaper.png
 [background]:img/background.png
