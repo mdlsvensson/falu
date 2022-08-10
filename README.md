@@ -1,8 +1,8 @@
 # falu
- color theme. WIP
+ WIP
 
-|test   |   |   |   |   |
-|---|---|---|---|---|
+## Colors
+|Palette   |HEX   |   |   |   |
 |   |   |   |   |   |
 |   |   |   |   |   |
 |   |   |   |   |   |
