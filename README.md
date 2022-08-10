@@ -4,7 +4,7 @@
 ## Colors
 |Palette|HEX|Color|
 |-----|-----|-----|
-|Wallpaper|#1F2430|![Colored box][wallpaper|
+|Wallpaper|#1F2430|![Colored box][wallpaper]|
 |Background|#2A2F3A||
 |Foreground|#EAEAEB||
 |Current Line|   |   |
