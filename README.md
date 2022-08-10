@@ -22,7 +22,7 @@
 [foreground]:img/foreground.png
 [currentline]:img/current_line.png
 [comment]:img/comment.png
-[oceangreen]:img/ocean_green.png
-[persiangreen]:img/persian_green.png
-[fuzzywuzzy]:img/fuzzy_wuzzy.png
-[mistymoss]:img/misty_moss.png
+[green1]:img/green1.png
+[green2]:img/green2.png
+[red]:img/red.png
+[yellow]:img/yellow.png
