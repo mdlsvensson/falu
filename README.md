@@ -2,7 +2,7 @@
  WIP
 
 ## Colors
-|Palette   |HEX   |   |   |   |
+|Palette|HEX|Color|   |   |
 |---|---|---|---|---|
 | test  |   |   |   |   |
 |   |   |   |   |   |
