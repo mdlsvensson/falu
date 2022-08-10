@@ -9,13 +9,13 @@
 |Foreground|#EAEAEB|![Colored box][foreground]|
 |Current Line|#353944|![Colored box][currentline]|
 |Comment|#5e746e|![Colored box][comment]|
-|Ocean Green|#26C485|![Colored box][oceangreen]|
-|Persian Green|#1EA28D|![Colored box][persiangreen]|
+|Green 1|#26C485|![Colored box][oceangreen]|
+|Green 2|#1EA28D|![Colored box][persiangreen]|
 |Orange|||
 |Pink|||
 |Purple|||
-|Fuzzy Wuzzy|#D16666|![Colored box][fuzzywuzzy]|
-|Misty Moss|#D4C685|![Colored box][mistymoss]|
+|Red|#D16666|![Colored box][fuzzywuzzy]|
+|Yellow|#D4C685|![Colored box][mistymoss]|
 
 [wallpaper]:img/wallpaper.png
 [background]:img/background.png
