@@ -2,8 +2,8 @@
  WIP
 
 ## Colors
-|Palette|HEX|Color|   |   |
-|---|---|---|---|---|
-| test  |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
+|Palette|HEX|Color|
+|-----|-----|-----|
+|test|   |   |
+|   |   |   |
+|   |   |   |
