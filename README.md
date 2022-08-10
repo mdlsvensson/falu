@@ -4,9 +4,9 @@
 ## Colors
 |Palette|HEX|Color|
 |-----|-----|-----|
-|Wallpaper|#1F2430||
-|Background|#2A2F3A|   |
-|Foreground|#EAE8FF|   |
+|Wallpaper|#1F2430|![Colored box][wallpaper|
+|Background|#2A2F3A||
+|Foreground|#EAEAEB||
 |Current Line|   |   |
 |Comment|   |   |
 |Cyan|   |   |
@@ -16,3 +16,5 @@
 |Purple|   |   |
 |Red|   |   |
 |Yellow|   |   |
+
+[wallpaper]:img/wallpaper.png
