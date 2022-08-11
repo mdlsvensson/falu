@@ -11,9 +11,8 @@
 |Comment|#5e746e|![Colored box][comment]|
 |Green 1|#26C485|![Colored box][green1]|
 |Green 2|#1EA28D|![Colored box][green2]|
-|Orange|||
-|Pink|||
-|Purple|||
+|Blue|#5C9EAD|![Colored box][blue]|
+|Pink|#EBBAB9|![Colored box][pink]|
 |Red|#D16666|![Colored box][red]|
 |Yellow|#F4D58D|![Colored box][yellow]|
 
