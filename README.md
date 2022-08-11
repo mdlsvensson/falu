@@ -4,9 +4,8 @@
 ## Colors
 |Palette|HEX|Color|
 |-----|-----|-----|
-|Wallpaper|#1F2430|![Colored box][wallpaper]|
-|Background|#2A2F3A|![Colored box][background]|
-|Foreground|#EAEAEB|![Colored box][foreground]|
+|Background|#140011|![Colored box][background]|
+|Foreground|#FFFAFE|![Colored box][foreground]|
 |Current Line|#353944|![Colored box][currentline]|
 |Comment|#5E746E|![Colored box][comment]|
 |Green 1|#26C485|![Colored box][green1]|
@@ -16,7 +15,6 @@
 |Red|#D16666|![Colored box][red]|
 |Yellow|#F4D58D|![Colored box][yellow]|
 
-[wallpaper]:img/wallpaper.png
 [background]:img/background.png
 [foreground]:img/foreground.png
 [currentline]:img/current_line.png
