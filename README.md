@@ -8,7 +8,7 @@
 |Background|#2A2F3A|![Colored box][background]|
 |Foreground|#EAEAEB|![Colored box][foreground]|
 |Current Line|#353944|![Colored box][currentline]|
-|Comment|#5e746e|![Colored box][comment]|
+|Comment|#5E746E|![Colored box][comment]|
 |Green 1|#26C485|![Colored box][green1]|
 |Green 2|#1EA28D|![Colored box][green2]|
 |Blue|#5C9EAD|![Colored box][blue]|
@@ -23,5 +23,7 @@
 [comment]:img/comment.png
 [green1]:img/green1.png
 [green2]:img/green2.png
+[blue]:img/blue.png
+[pink]:img/pink.png
 [red]:img/red.png
 [yellow]:img/yellow.png
