@@ -5,8 +5,7 @@
 |Palette|HEX|Color|
 |-----|-----|-----|
 |Background|#140011|![Colored box][background]|
-|Foreground/Comment|#C4BFC4|![Colored box][foreground]|
-|Foreground (Light)|#FFFAFE|![Colored box][foregroundlight]|
+|Foreground|#F4EBE8|![Colored box][foreground]|
 |Current Line|#200D1D|![Colored box][currentline]|
 |Green 1|#26C485|![Colored box][green1]|
 |Green 2|#1EA28D|![Colored box][green2]|
@@ -17,7 +16,6 @@
 
 [background]:img/background.png
 [foreground]:img/foreground.png
-[foregroundlight]:img/foreground_light.png
 [currentline]:img/current_line.png
 [comment]:img/comment.png
 [green1]:img/green1.png
