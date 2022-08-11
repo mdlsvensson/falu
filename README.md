@@ -16,7 +16,7 @@
 
 [background]:img/background.png
 [foreground]:img/foreground.png
-[currentline]:img/current_line.png
+[currentline]:img/line.png
 [comment]:img/comment.png
 [green1]:img/green1.png
 [green2]:img/green2.png
