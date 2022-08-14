@@ -6,7 +6,7 @@
 |-----|-----|-----|
 |Background|#140011|![Colored box][background]|
 |Foreground|#F4EBE8|![Colored box][foreground]|
-|Current Line|#200D1D|![Colored box][currentline]|
+|Current Line|#2B1929|![Colored box][currentline]|
 |Green 1|#26C485|![Colored box][green1]|
 |Green 2|#1EA28D|![Colored box][green2]|
 |Blue|#5C9EAD|![Colored box][blue]|
