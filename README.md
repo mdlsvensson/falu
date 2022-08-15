@@ -17,10 +17,9 @@
 [background]:img/background.png
 [foreground]:img/foreground.png
 [currentline]:img/line.png
-[comment]:img/comment.png
-[green1]:img/green1.png
-[green2]:img/green2.png
-[blue]:img/blue.png
-[pink]:img/pink.png
 [red]:img/red.png
+[green]:img/green.png
+[blue]:img/blue.png
 [yellow]:img/yellow.png
+[pink]:img/pink.png
+[purple]:img/[purple]:img/pink.png
