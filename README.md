@@ -22,4 +22,4 @@
 [blue]:img/blue.png
 [yellow]:img/yellow.png
 [pink]:img/pink.png
-[purple]:img/[purple]:img/pink.png
+[purple]:img/purple.png
