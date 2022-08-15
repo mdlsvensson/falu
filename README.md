@@ -1,5 +1,5 @@
 # falu
- WIP
+ The darkest of modes.
 
 ## Colors
 | Palette      | HEX     | Color                       |
