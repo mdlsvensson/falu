@@ -7,7 +7,7 @@
 | Background   | #0E000C | ![Colored box][background]  |
 | Foreground   | #F5E9E2 | ![Colored box][foreground]  |
 | Red          | #E3B5A4 | ![Colored box][red]         |
-| Green        | #A8B7AB | ![Colored box][green]       |
+| Green        | #226F54 | ![Colored box][green]       |
 | Blue         | #ADB6C4 | ![Colored box][blue]        |
 | Yellow       | #FFEFD3 | ![Colored box][yellow]      |
 | Pink         | #EABFCB | ![Colored box][pink]        |
