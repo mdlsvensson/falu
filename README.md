@@ -6,14 +6,13 @@
 | ------------ | ------- | --------------------------- |
 | Background   | #0E000C | ![Colored box][background]  |
 | Foreground   | #F5E9E2 | ![Colored box][foreground]  |
-| Red          | #D44D5C | ![Colored box][red]         |
-| Melon        | #E3B5A4 | ![Colored box][melon]       |
-| Gray         | #4F6367 | ![Colored box][green]       |
+| Red          | #E3B5A4 | ![Colored box][red]         |
 | Green        | #A8B7AB | ![Colored box][green]       |
 | Blue         | #ADB6C4 | ![Colored box][blue]        |
 | Yellow       | #FFEFD3 | ![Colored box][yellow]      |
 | Pink         | #EABFCB | ![Colored box][pink]        |
 | Purple       | #DECDF5 | ![Colored box][purple]      |
+| Gray         | #4F6367 | ![Colored box][green]       |
 
 [background]:img/background.png
 [foreground]:img/foreground.png
