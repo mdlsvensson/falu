@@ -6,11 +6,11 @@
 | ------------ | ------- | --------------------------- |
 | Background   | #0E000C | ![Colored box][background]  |
 | Foreground   | #F5E9E2 | ![Colored box][foreground]  |
-| Red          | #E3B5A4 | ![Colored box][red]         |
+| Red          | #DA2C38 | ![Colored box][red]         |
 | Green        | #226F54 | ![Colored box][green]       |
 | Blue         | #ADB6C4 | ![Colored box][blue]        |
 | Yellow       | #FFEFD3 | ![Colored box][yellow]      |
-| Pink         | #EABFCB | ![Colored box][pink]        |
+| Melon        | #EABFCB | ![Colored box][melon]        |
 | Purple       | #DECDF5 | ![Colored box][purple]      |
 | Gray         | #4F6367 | ![Colored box][gray]        |
 
@@ -24,3 +24,4 @@
 [pink]:img/pink.png
 [purple]:img/purple.png
 [gray]:img/gray.png
+[melon]:img/melon.png
