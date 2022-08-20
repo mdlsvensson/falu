@@ -12,7 +12,7 @@
 | Yellow       | #FFEFD3 | ![Colored box][yellow]      |
 | Pink         | #EABFCB | ![Colored box][pink]        |
 | Purple       | #DECDF5 | ![Colored box][purple]      |
-| Gray         | #4F6367 | ![Colored box][green]       |
+| Gray         | #4F6367 | ![Colored box][gray]        |
 
 [background]:img/background.png
 [foreground]:img/foreground.png
@@ -23,3 +23,4 @@
 [yellow]:img/yellow.png
 [pink]:img/pink.png
 [purple]:img/purple.png
+[gray]:img/gray.png
