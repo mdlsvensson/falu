@@ -9,7 +9,7 @@
 | Foreground (Blue)   | #D6EFFF | ![Colored box][foreground]  |
 | Red          | #DA2C38 | ![Colored box][red]         |
 | Green        | #226F54 | ![Colored box][green]       |
-| Blue         | #ADB6C4 | ![Colored box][blue]        |
+| Blue         | #3E92CC | ![Colored box][blue]        |
 | Yellow       | #FFEFD3 | ![Colored box][yellow]      |
 | Melon        | #EABFCB | ![Colored box][melon]       |
 | Purple       | #DECDF5 | ![Colored box][purple]      |
