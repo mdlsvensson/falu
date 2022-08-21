@@ -1,5 +1,5 @@
 # falu
- The darkest of modes.
+Color theme based on a very dark background with a hint of purple.
 
 ## Colors
 | Palette      | HEX     | Color                       |
