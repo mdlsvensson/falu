@@ -6,7 +6,7 @@ Color theme featuring a very background with just a slight hint of purple. Pleas
 | ------------------ | ------- | ------------------------------- |
 | Background         | #0E000C | ![Colored box][background]      |
 | Background (Shade) | #060005 | ![Colored box][backgroundshade] |
-| Background (Tint)  | #120711 | ![Colored box][foregroundtint]  |
+| Background (Tint)  | #120711 | ![Colored box][backgroundtint]  |
 | Foreground         | #EFE1ED | ![Colored box][foreground]      |
 | Foreground (Tint)  | #F6EFF5 | ![Colored box][foregroundtint]  |
 | Gray               | #4F6367 | ![Colored box][gray]            |
@@ -20,7 +20,7 @@ Color theme featuring a very background with just a slight hint of purple. Pleas
 [backgroundshade]:img/backgroundshade.png
 [backgroundtint]:img/backgroundtint.png
 [foreground]:img/foreground.png
-[foregroundbright]:img/foregroundtint.png
+[foregroundtint]:img/foregroundtint.png
 [gray]:img/gray.png
 [green]:img/green.png
 [blue]:img/blue.png
