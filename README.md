@@ -5,13 +5,13 @@
 | Palette      | HEX     | Color                       |
 | ------------ | ------- | --------------------------- |
 | Background   | #0E000C | ![Colored box][background]  |
-| Foreground   | #F5E9E2 | ![Colored box][foreground]  |
-| Red          | #DA2C38 | ![Colored box][red]         |
-| Green        | #226F54 | ![Colored box][green]       |
-| Blue         | #3E92CC | ![Colored box][blue]        |
-| Yellow       | #FCCA46 | ![Colored box][yellow]      |
-| Melon        | #EABFCB | ![Colored box][melon]       |
+| Foreground   | #EFE1ED | ![Colored box][foreground]  |
+| Green        | #57A773 | ![Colored box][green]       |
+| Blue         | #9ED0E6 | ![Colored box][blue]        |
+| Yellow       | #CDC392 | ![Colored box][yellow]      |
+| Orange       | #E2C290 | ![Colored box][orange]      |
 | Gray         | #4F6367 | ![Colored box][gray]        |
+| Pink         | #C49BBB | ![Colored box][pink]        |
 
 [background]:img/background.png
 [foreground]:img/foreground.png
