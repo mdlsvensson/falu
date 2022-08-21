@@ -1,5 +1,5 @@
 # falu
-Color theme based on a very dark background with a hint of purple.
+Color theme starting with a very dark background with just a hint of purple.
 
 ## Colors
 | Palette      | HEX     | Color                       |
