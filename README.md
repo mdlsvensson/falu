@@ -1,5 +1,5 @@
 # falu
-Color theme starting with a very dark background with just a hint of purple.
+Color theme starting with a very dark background with just a hint of purple. Please experiment with these colors and suggest alternatives that might be a better fit.
 
 ## Colors
 | Palette      | HEX     | Color                       |
