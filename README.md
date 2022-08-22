@@ -13,6 +13,7 @@ Color theme featuring a very background with just a slight hint of purple. Pleas
 | Pink                  | #C49BBB | ![Colored box][pink]           |
 | Orange                | #E2C290 | ![Colored box][orange]         |
 | Yellow                | #CDC392 | ![Colored box][yellow]         |
+| Red                   | #9C3848 | ![Colored box][red]            |
 
 [background]:img/background.png
 [foreground]:img/foreground.png
