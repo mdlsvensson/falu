@@ -8,7 +8,7 @@ Color theme featuring a very background with just a slight hint of purple. Pleas
 | Foreground            | #EFE1ED | ![Colored box][foreground]     |
 | Foreground (Brighter) | #F6EFF5 | ![Colored box][foregroundtint] |
 | Gray                  | #4F6367 | ![Colored box][gray]           |
-| Red                   | #9C3848 | ![Colored box][red]            |
+| Red                   | #EF767A | ![Colored box][red]            |
 | Green                 | #57A773 | ![Colored box][green]          |
 | Blue                  | #9ED0E6 | ![Colored box][blue]           |
 | Pink                  | #C49BBB | ![Colored box][pink]           |
